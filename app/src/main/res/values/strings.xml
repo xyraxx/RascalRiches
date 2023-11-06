@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RascalRiches</string>
+    <string name="facebook_app_id">678744980653220</string>
+    <string name="facebook_client_token">287f873e4320cd09345eed5e49525582</string>
+    <string name="admob_id">ca-app-pub-9894760289371630~5105018876</string>
+
+    <string name="banner_small">ca-app-pub-9894760289371630/6853214811</string>
+    <string name="banner_large">ca-app-pub-9894760289371630/5111939499</string>
+</resources>

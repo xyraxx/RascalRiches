@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259115365750",
+    "project_id": "bigwin-af5d4",
+    "storage_bucket": "bigwin-af5d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259115365750:android:13221f652caee5c25c7657",
+        "android_client_info": {
+          "package_name": "app.win11.rascalriches"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUMqe7MCi2gNC-SQtpQoNLu7ssn-G7YrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
